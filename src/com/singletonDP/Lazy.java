@@ -1,5 +1,5 @@
 package com.singletonDP;
-// This is Lazy Singleton DP
+// This is Eager Singleton DP
 public class Lazy {
     public static void main(String[] args){
 
