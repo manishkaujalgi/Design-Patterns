@@ -33,7 +33,7 @@ public class PhoneBuilder {
     }
 
     public Phone getPhone() {
-        return new Phone(os, processor, screensize, battery, camera);
+        return new Phone(os, processor, screensize, camera, battery);
     }
 
 
